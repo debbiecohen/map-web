@@ -5,7 +5,7 @@ const initialState = {
   locations: [],
   showPublicLocations: false,
   addLocation: false,
-  mapCenter: { latitude: 52.3703911, longitude: 4.8905929 },
+  mapCenter: { latitude: 10.504321, longitude: -66.826502 },
 };
 
 const locationsReducer = (state = initialState, action) => {
